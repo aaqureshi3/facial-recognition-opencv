@@ -10,3 +10,5 @@ Pickle (comes default with python3)
 
 ### Purpose
 I'm tyring to learn computer vision, nothing serious yet.
+
+##### Will write up a proper README soon
