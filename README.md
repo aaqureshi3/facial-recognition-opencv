@@ -1,14 +1,9 @@
 # facial-recognition-opencv
-Recognize cast members of the TV show Scrubs
+Recognize cast members of the TV show Scrubs. Requires Python version 3.5.1 or higher.
 
 ### Dependencies
-Python3 \
 OpenCV \
 Numpy \
 Pillow \
 Pickle (comes default with python3)
 
-### Purpose
-I'm tyring to learn computer vision, nothing serious yet.
-
-##### Will write up a proper README soon
